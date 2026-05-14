@@ -13,13 +13,14 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 h-24">
 
         {/* Logo */}
-        <Link to="/">
+        {/* <Link to="/">
           <img
             src="/logopreview.png"
             alt="Logo"
             className="w-20 md:w-24 mt-2 object-contain cursor-pointer hover:scale-105 transition duration-300"
           />
-        </Link>
+        </Link> */}
+        <h1>Company Logo</h1>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex gap-8 text-sm font-medium items-center text-yellow-500">

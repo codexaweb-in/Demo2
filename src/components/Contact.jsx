@@ -53,8 +53,7 @@ const Contact = () => {
                 <FaMapMarkerAlt className="mt-1 text-[#b57a00] text-xl shrink-0" />
 
                 <span>
-                  01, Phase 1, Rivera Town, Near Mata Mandir,
-                  Bhopal, MP - 462003
+                  Address: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
                 </span>
               </p>
             </div>
@@ -63,7 +62,7 @@ const Contact = () => {
               <p className="flex gap-4 items-center text-gray-700">
                 <FaPhoneAlt className="text-[#b57a00] text-lg" />
 
-                <span>+91 87704 91425</span>
+                <span>+91 xxxxxxxxxxxxxx</span>
               </p>
             </div>
 
@@ -71,7 +70,7 @@ const Contact = () => {
               <p className="flex gap-4 items-center break-all text-gray-700">
                 <FaEnvelope className="text-[#b57a00] text-lg" />
 
-                <span>kapeeshseedsplant@gmail.com</span>
+                <span>xxxxxxxxxxxxxx@gmail.com</span>
               </p>
             </div>
           </div>

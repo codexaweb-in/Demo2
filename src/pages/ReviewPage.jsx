@@ -14,7 +14,7 @@ const reviews = [
     name: "Ahmed Khan",
     country: "UAE",
     review:
-      "Kapeesh Seeds Plant delivers premium quality products consistently. Highly reliable international supplier.",
+      "Company delivers premium quality products consistently. Highly reliable international supplier.",
   },
   {
     name: "Sophia Williams",

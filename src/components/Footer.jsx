@@ -16,11 +16,12 @@ const Footer = () => {
 
         {/* Company */}
         <div>
-          <img
+          {/* <img
             src="/logo.png"
             alt="Logo"
             className="w-40 mb-4 object-contain"
-          />
+          /> */}
+          <h1 className="text-blue-600 text-2xl font-bold">Company Logo</h1>
 
           <p className="text-sm leading-7 text-gray-400">
             Trusted exporter of premium wheat and agricultural products to
@@ -130,9 +131,9 @@ const Footer = () => {
               <FaMapMarkerAlt className="mt-1 text-white text-lg" />
 
               <span>
-                01, Phase 1, Rivera Town, Near Mata Mandir,
+                XXXXXXXXXXXXXXXXXXXXX,
                 <br />
-                Bhopal, MP - 462003
+                XXXXXXXXXXXXXXXX
               </span>
             </p>
 
@@ -141,20 +142,20 @@ const Footer = () => {
               className="flex gap-3 items-center hover:text-white transition"
             >
               <FaPhoneAlt className="text-white" />
-              +91 87704 91425
+              +91 xxxxxxxxxx
             </a>
 
             <a
-              href="mailto:kapeeshseedsplant@gmail.com"
+              href="mailto:xxxxxxxxxx@gmail.com"
               className="flex gap-3 items-center break-all hover:text-white transition"
             >
               <FaEnvelope className="text-white" />
-              kapeeshseedsplant@gmail.com
+              xxxxxxxxxxxxxxxxxx@gmail.com
             </a>
 
             <div className="flex gap-4 pt-2">
               <a
-                href="https://wa.me/918770491425"
+                href="https://wa.me/91xxxxxxxxxxx"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-green-800 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-green-600 transition"
@@ -173,7 +174,7 @@ const Footer = () => {
       <p className="text-center text-sm text-gray-400 px-4">
         © {new Date().getFullYear()}
         <span className="text-[#ffe2ac] font-semibold ml-2">
-          Kapeesh Seeds Plant
+          CodexaWeb
         </span>
         . All Rights Reserved.
       </p>

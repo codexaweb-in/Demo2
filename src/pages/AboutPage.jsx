@@ -26,7 +26,7 @@ const AboutPage = () => {
                 <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-6">
 
                     <p className="text-amber-300 md:text-2xl text-sm uppercase tracking-[5px] font-semibold mb-4">
-                        About KAPEESH SEEDS PLANT
+                        About Company
                     </p>
 
                     <h1 className="text-2xl md:text-7xl font-extrabold text-white leading-tight drop-shadow-2xl">
@@ -89,7 +89,7 @@ const AboutPage = () => {
                         </h1>
 
                         <p className="text-gray-900 text-lg leading-relaxed mt-8">
-                            Kapeesh Seeds Plant specializes in exporting premium quality
+                            Company specializes in exporting premium quality
                             Indian wheat and agricultural products to global markets.
                             We ensure purity, hygiene, quality packaging, and timely
                             delivery with international export standards.
